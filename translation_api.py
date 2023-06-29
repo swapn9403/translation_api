@@ -2,7 +2,7 @@ import openai
 
 def translate_japanese_to_english(text):
     # Replace 'YOUR_API_KEY' with your actual API key
-    api_key = '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'
+    api_key = 'YOUR_API_KEY'
     
     # Set up OpenAI API credentials
     openai.api_key = api_key
